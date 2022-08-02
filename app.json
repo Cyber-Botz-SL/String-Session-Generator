@@ -1,7 +1,7 @@
 {
   "name": "sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ",
   "description": "A Telegram Bot to generate Telethon and Pyrogram String Sessions.",
-  "logo": "https://te.legra.ph/file/cb97acee5318d98c4f3cb.jpg",
+  "logo": "https://telegra.ph/file/3cddf2ed996cdc5f90155.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/xMalitha/StringGenX",
+  "repository": "https://github.com/Cyber-Botz-SL/String-Session-Generator",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
