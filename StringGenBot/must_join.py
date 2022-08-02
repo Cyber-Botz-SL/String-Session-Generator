@@ -20,7 +20,7 @@ async def must_join_channel(bot: Client, msg: Message):
             try:
                 await msg.reply_photo(photo="https://telegra.ph/file/3cddf2ed996cdc5f90155.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰", url=f"{link}")]
+                        [InlineKeyboardButton("𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰", url=f"{https://t.me/Cyber_Botz_SL}")]
                     ])
                 )
                 await msg.stop_propagation()
