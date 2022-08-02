@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/5b7a0977a2dd66525518e.jpg" alt="CyberBotz" width="150">
+  <img src="https://telegra.ph/file/3cddf2ed996cdc5f90155.jpg" alt="CyberBotz" width="300">
 </p>
 
-### 𝙰𝙻𝙿𝙷𝙰 么 ™  sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ 🥵
-  <a href="https://github.com/DrStrangerXD"><img alt="Website" src="https://img.shields.io/badge/xMalitha-blue"></a>
+### 𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟 <img src= https://flagcdn.com/24x18/lk.png width="15">™  sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ 🔥
+  <a href="https://github.com/DrStrangerXD"><img alt="Website" src="https://img.shields.io/badge/Dr Stranger-blue"></a>
   
   ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -25,7 +25,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [˹sᴛʀɪɴɢ ✘ ɢᴇɴᴇʀᴀᴛᴏʀ ˼ 🍑](https://telegram.me/StringalfaXBot)
+  [˹sᴛʀɪɴɢ ✘ ɢᴇɴᴇʀᴀᴛᴏʀ ˼ 🍑]()
   
   ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -38,6 +38,6 @@ Atleast Give A Star and Fork The Repo 🖤
 ☞ `BOT_TOKEN` - Bot Token of your spam bots.<br>
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝘿𝙍 𝙎𝙏𝙍𝘼𝙉𝙂𝙀𝙍🇱🇰 <img src= https://flagcdn.com/24x18/lk.png width="15">](https://t.me/Dr_Stranger_XD)
+- » [𝘿𝙍 𝙎𝙏𝙍𝘼𝙉𝙂𝙀𝙍 <img src= https://flagcdn.com/24x18/lk.png width="15">](https://t.me/Dr_Stranger_XD)
 - » [мαℓιтнα мιнιяαηgα <img src= https://flagcdn.com/24x18/lk.png width="15">](https://t.me/xMalitha)
 
