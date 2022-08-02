@@ -13,14 +13,14 @@ async def must_join_channel(bot: Client, msg: Message):
             await bot.get_chat_member(MUST_JOIN, msg.from_user.id)
         except UserNotParticipant:
             if MUST_JOIN.isalpha():
-                link = "https://t.me/" + MUST_JOIN
+                link = "https://t.me/Cyber_Botz_SL" + MUST_JOIN
             else:
                 chat_info = await bot.get_chat(MUST_JOIN)
                 link = chat_info.invite_link
             try:
-                await msg.reply_photo(photo="https://telegra.ph/file/25efd87b55239e1040e6d.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
+                await msg.reply_photo(photo="https://telegra.ph/file/3cddf2ed996cdc5f90155.jpg", caption=f"» ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ [𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰]({link}) ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ [𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰]({link}) ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !",
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("𝙰𝙻𝙿𝙷𝙰 么 ™ Bots 『🇱🇰』", url=f"{link}")]
+                        [InlineKeyboardButton("𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟🇱🇰", url=f"{link}")]
                     ])
                 )
                 await msg.stop_propagation()
