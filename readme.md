@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/3cddf2ed996cdc5f90155.jpg" alt="CyberBotz" width="300">
+  <img src="https://telegra.ph/file/1b2f0d87564eb245e202f.jpg" alt="CyberBotz" width="300">
 </p>
 
 ### 𝗖𝘆𝗯𝗲𝗿 𝗕𝗼𝘁𝘇 𝗦𝗟 <img src= https://flagcdn.com/24x18/lk.png width="15">™  sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ 🔥
