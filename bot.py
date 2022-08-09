@@ -19,7 +19,7 @@ app = Client(
 
 
 if __name__ == "__main__":
-    print("Starting the String Generator Bot...")
+    print("Starting the CyberBotsOS...")
     try:
         app.start()
     except (ApiIdInvalid, ApiIdPublishedFlood):
@@ -30,4 +30,4 @@ if __name__ == "__main__":
     print(f"@{uname} started successfully !")
     idle()
     app.stop()
-    print("Bot stopped. Bye !")
+    print("CyberBotsOS Shutdowning. Bye Guys !")
